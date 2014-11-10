@@ -1,14 +1,53 @@
-# VietStack Overview
+# Hello World, VietStack !
 
 Hanoi  
-November 8, 2014  
+November 15, 2014  
 vietstack@gmail.com  
 
-<http://vietstack.com/#/>
+<http://vietstack.com/>
 
 ---
 
-# What is OpenStack?
+# Outline
+
+- VietStack Overview
+- Group statistics (11/2014)
+  - Members
+  - Views
+  - Topic
+- GOALS - Scheduled Activities
+  - Goals
+  - Activities
+- VietStack <-> Triple-C 
+- Q&A
+
+---
+
+# VietStack Overview
+
+- [Ceilometer][] (Telemetry)
+- [Cinder][] (Block Storage)
+- [Glance][] (Image Service)
+- [Heat][] (Orchestration)
+- [Horizon][] (Dashboard)
+- [Keystone][] (Identity)
+- [Neutron][] (Networking)
+- [Nova][] (Compute)
+- [Swift][] (Object Storage)
+- [Trove][] (Database Service)
+
+[Ceilometer]: https://wiki.openstack.org/wiki/Ceilometer
+[Cinder]: https://wiki.openstack.org/wiki/Cinder
+[Glance]: https://wiki.openstack.org/wiki/Glance
+[Heat]: https://wiki.openstack.org/wiki/Heat
+[Horizon]: https://wiki.openstack.org/wiki/Horizon
+[Keystone]: https://wiki.openstack.org/wiki/Keystone
+[Neutron]: https://wiki.openstack.org/wiki/Neutron
+[Nova]: https://wiki.openstack.org/wiki/Nova
+[Swift]: https://wiki.openstack.org/wiki/Swift
+[Trove]: https://wiki.openstack.org/wiki/Trove
+
+<!-- .element: class="twocolumn" -->
 
 ---
 
@@ -28,6 +67,8 @@ new era of enlightened access to infrastructure resources!
 ## What is OpenStack?
 
 - "Infrastructure as a Service" (IaaS)
+- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
+- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
