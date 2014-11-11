@@ -2,7 +2,8 @@
 
 <img src="images/logo.jpg" />
 
-Hanoi 
+Hanoi
+
 vietstack@gmail.com  
 
 <http://vietstack.com/>
