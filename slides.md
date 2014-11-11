@@ -13,9 +13,9 @@ vietstack@gmail.com
 - VietStack Overview
 - Group statistics (11/2014)
   - Members
-  - Views
+  - Blog Views
   - Topic
-- GOALS - Scheduled Activities
+- GOALS - Activities
   - Goals
   - Activities
 - VietStack <-> Triple-C 
@@ -25,62 +25,88 @@ vietstack@gmail.com
 
 # VietStack Overview
 
-- [Ceilometer][] (Telemetry)
-- [Cinder][] (Block Storage)
-- [Glance][] (Image Service)
-- [Heat][] (Orchestration)
-- [Horizon][] (Dashboard)
-- [Keystone][] (Identity)
-- [Neutron][] (Networking)
-- [Nova][] (Compute)
-- [Swift][] (Object Storage)
-- [Trove][] (Database Service)
+- Launched: [Feb][1] 13, [2014][1]
+- Vietnamese Technical Channel about [Cloud Computing][1]
+- Rapidly update with [OpenStack][] Community
 
-[Ceilometer]: https://wiki.openstack.org/wiki/Ceilometer
-[Cinder]: https://wiki.openstack.org/wiki/Cinder
-[Glance]: https://wiki.openstack.org/wiki/Glance
-[Heat]: https://wiki.openstack.org/wiki/Heat
-[Horizon]: https://wiki.openstack.org/wiki/Horizon
-[Keystone]: https://wiki.openstack.org/wiki/Keystone
-[Neutron]: https://wiki.openstack.org/wiki/Neutron
-[Nova]: https://wiki.openstack.org/wiki/Nova
-[Swift]: https://wiki.openstack.org/wiki/Swift
-[Trove]: https://wiki.openstack.org/wiki/Trove
+[1]: http://
+[OpenStack]: http://www.openstack.org
 
-<!-- .element: class="twocolumn" -->
 
----
-
-<img src="images/thecloud.png" width="900"/>
+<img src="images/vs1.png" width="500"/>
 
 Note:
-It's THE CLOUD! It's a new paradigm in managing datacenter resources!
-It's freedom from the white box under your desk! It's ushering in a
-new era of enlightened access to infrastructure resources!
+VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giua cac anh em ky thuat.
+
+
+## Connect
+- Blog: http://vietstack.wordpress.com	
+- FB: http://facebook.com/groups/vietstack
+- Email: [vietstack@gmail.com][]
+- Git: http://github.com/vietstacker	
+- TW: http://twitter.com/VietStack	
+- Meetup: http://www.meetup.com/VietStack/	
+
+[vietstack@gmail.com]: mailto:vietstack@gmail.com
 
 ---
 
-![A bunch of legos](images/bulklegos.jpg)
+# Group Statistics
+
+- Members
+- Blog Views
+- Topics
+
+
+## > [700][] Member (11/2014)
+<img src="images/member.png" width="900"/>
+
+[700]: http://
+
+Note:
+Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
+
+
+## Blog Views
+- Blog View: ~[1500][] monthly
+<img src="images/blog.png" width="900"/>
+
+[1500]: http://
+
+
+## Top Views by Country
+- Top view: [VN][1] & [US][1]
+<img src="images/mapview.png" width="900"/>
+
+[1]: http://
+
+Note: Blog da duoc mirantis crawl
+
+
+## Topics
+- Weekly topic by VietStack group:
+ - Multi-hypervisor
+ - Storage
+ - Networking
+ - Monitor
+ 
+Note: 
+Nhom duy tri 1 tuan 1 topic chinh de update va trao doi, su dung lam can cu cho public meetup sau nay
+Cac thanh vien tham gia chia se gom tu chinh trong nhom: CongTT, TuanLH, HieuLQ, QuanHD, ThangMV.. cho toi cac member trong cong dong
 
 ---
 
-## What is OpenStack?
+# GOALS - Activities
+Up to 2017
 
-- "Infrastructure as a Service" (IaaS)
-- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
 
----
-
-## What is infrastructure?
-
-- Compute
-- Storage
-- Networking
-- Monitoring? Load balancing? ...?
+## Goals
 
 Note:
 - Deployment orchestration? Autoscaling?
+
+
+## Activities
 
 ---
 
