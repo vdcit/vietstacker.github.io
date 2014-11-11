@@ -2,8 +2,7 @@
 
 <img src="images/logo.jpg" />
 
-Hanoi  
-November 15, 2014  
+Hanoi 
 vietstack@gmail.com  
 
 <http://vietstack.com/>
