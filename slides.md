@@ -20,8 +20,10 @@ vietstack@gmail.com
 - GOALS - Activities
   - Goals
   - Activities
-- VietStack ⇋ Triple-C 
+- VietStack ⇋ Triple-[C][1] 
 - Q&A
+
+[1]: http://
 
 ---
 
@@ -130,16 +132,28 @@ Note:
 
 # VietStack Public Meetup
 
-- 
-
+- Topic: 1-2 technical topic
+- Presenter: community (BarCamp style)
+- Time: Monthly (end of each month)
+- Next Public meetup topic: <!-- .element: class="fragment" data-fragment-index="1" -->
+  1. VietStack, Cloud Computing and OpenStack <!-- .element: class="fragment" data-fragment-index="2" -->
+  2. Virtualization in Cloud <!-- .element: class="fragment" data-fragment-index="3" -->
+  3. Storage <!-- .element: class="fragment" data-fragment-index="4" -->
+  4. Monitor <!-- .element: class="fragment" data-fragment-index="5" -->
+  
 Note:
-- an api for your datacenter
+- Barcamp Style: Dau thang to chuc vote cac chu de, cuoi thang moi nhung nguoi quan tam den trinh bay.
+- Meetup 1: OpenStack Deployment Architecture & Case Study
+- Moi Meetup se co 1 topic do nhom chu dong chon de backup, con lai la cua cong dong
 
 ---
 
 # DevOps Team
 
-- 
+- Goal: contribute to OpenStack foundation.
+- Input:
+  - Problem from community
+  - Problem from corporation
 
 Note:
 
@@ -147,27 +161,46 @@ Note:
 
 # Communication Channel
 
+- Skype Group
+- Facebook Group
+- *Mailing list*
 - *IRC*
 
 ---
 
 ## Technical Knowledge
 
-- 
+- All about Cloud
+- Coding
+- In the future: CloudStack, SDN..
 
 Note:
 
 ---
 
-# VietStack ⇋ TripleC
+# VietStack ⇋ Triple-[C][1]
 
-TripleC: Community - College - Corporation
+Triple[C][1]: [C][1]ommunity - [C][1]ollege - [C][1]orporation
+
+[1]: http://
 
 
 # ⇨
 
+- [C][1]ommunity: news, updates, information, bug fix
+- [C][1]ollege: tailoring, support for [R][1]&[D][1]
+- [C][1]orporation: problem solving, consultant
+
+[1]: http://
+
 
 # ⇦
+
+- [C][1]ommunity: open & sharing
+- [C][1]ollege: [R][1]&[D][1] ideas
+- [C][1]orporation: [Sponsor][1] (meetup location, marketing..) 
+
+[1]: http://
 
 ---
 
