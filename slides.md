@@ -198,7 +198,7 @@ Triple[C][1]: [C][1]ommunity - [C][1]ollege - [C][1]orporation
 
 - [C][1]ommunity: open & sharing
 - [C][1]ollege: [R][1]&[D][1] ideas
-- [C][1]orporation: [Sponsor][1] (meetup location, marketing..) 
+- [C][1]orporation: [Sponsor][1] (meetup location, marketing, LAB..) 
 
 [1]: http://
 
