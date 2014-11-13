@@ -126,7 +126,7 @@ Note:
 - Public Meetup <!-- .element: class="fragment" data-fragment-index="1" -->
 - Connecting Technical-Cloud-DevOp guys <!-- .element: class="fragment" data-fragment-index="2" -->
 - Communication Channel <!-- .element: class="fragment" data-fragment-index="3" -->
-- Publish techical post (via FB, Blog..) <!-- .element: class="fragment" data-fragment-index="4" -->
+- Publish technical post (via FB, Blog..) <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
