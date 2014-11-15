@@ -110,9 +110,9 @@ Up to 2017
 ## Goals
 - [Cloud Computing][1] & [OpenStack][1] knowledge sharing
 - Building an OpenStack-geek Team
-- Contribute to [OpenStack Foundation][1]
 - Co-op with [Vietnamese][1] Community for solving OPS problems
 - Connect with other members inside and outside [Vietnam][1]
+- Contribute to [OpenStack Foundation][1]
 
 [1]: http://
 
