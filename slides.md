@@ -47,7 +47,7 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
 
 
 ## Connect
-- Blog: http://vietstack.wordpress.com	
+- Blog: http://www.vietstack.com	
 - FB: http://facebook.com/groups/vietstack
 - Email: [vietstack@gmail.com][]
 - Git: http://github.com/vietstacker	
@@ -111,7 +111,7 @@ Up to 2017
 - [Cloud Computing][1] & [OpenStack][1] knowledge sharing
 - Building an OpenStack-geek Team
 - Co-op with [Vietnamese][1] Community for solving OPS problems
-- Connect with other members inside and outside [Vietnam][1]
+- Connect with other communitycommunity members inside and outside [Vietnam][1]
 - Contribute to [OpenStack Foundation][1]
 
 [1]: http://
