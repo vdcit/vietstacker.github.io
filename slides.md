@@ -47,12 +47,12 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
 
 
 ## Connect
-- Blog: http://www.vietstack.com	
 - FB: http://facebook.com/groups/vietstack
-- Email: [vietstack@gmail.com][]
+- TW: http://twitter.com/VietStack
+- Blog: http://www.vietstack.com	
 - Git: http://github.com/vietstacker	
-- TW: http://twitter.com/VietStack	
 - Meetup: http://www.meetup.com/VietStack/	
+- Email: [vietstack@gmail.com][]
 
 [vietstack@gmail.com]: mailto:vietstack@gmail.com
 
