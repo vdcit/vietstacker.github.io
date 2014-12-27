@@ -87,7 +87,7 @@ Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
 
 [1]: http://
 
-Note: Blog da duoc mirantis crawl
+Note: Blog da duoc mirantis crawl va rackspace contact
 
 
 ## Topics
@@ -111,7 +111,7 @@ Up to 2017
 - [Cloud Computing][1] & [OpenStack][1] knowledge sharing
 - Building an OpenStack-geek Team
 - Co-op with [Vietnamese][1] Community for solving OPS problems
-- Connect with other communitycommunity members inside and outside [Vietnam][1]
+- Connect with other community members inside and outside [Vietnam][1]
 - Contribute to [OpenStack Foundation][1]
 
 [1]: http://
@@ -169,6 +169,7 @@ Note:
 
 - Skype Group
 - Facebook Group
+- Blog
 - *Mailing list*
 - *IRC*
 
