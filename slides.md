@@ -174,7 +174,7 @@ Note:
 
 - All about Cloud
 - Coding
-- In the future: CloudStack, SDN..
+- In the future: BigData, SDN..
 
 Note:
 
