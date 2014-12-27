@@ -145,7 +145,7 @@ Note:
 
 ## Meetup Topics
 
-<img src="images/topics.png" width="500" />
+<img src="images/topics.png" width="900" />
 
 ---
 
