@@ -14,7 +14,7 @@ vietstack@gmail.com
 # Outline
 
 - VietStack Overview
-- Group statistics (11/2014)
+- Group statistics (12/2014)
   - Members
   - Blog Views
   - Topic
@@ -65,10 +65,10 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
 - Topics
 
 
-## > [700][] Member (11/2014)
+## ~ [800][] Member (12/2014)
 <img src="images/member.png" width="900"/>
 
-[700]: http://
+[800]: http://
 
 Note:
 Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
@@ -136,16 +136,20 @@ Note:
 - Topic: 1-2 technical topic
 - Presenter: community (BarCamp style)
 - Time: Monthly (end of each month)
-- Next Public meetup topic: <!-- .element: class="fragment" data-fragment-index="1" -->
-  1. VietStack, Cloud Computing and OpenStack <!-- .element: class="fragment" data-fragment-index="2" -->
-  2. Virtualization in Cloud <!-- .element: class="fragment" data-fragment-index="3" -->
-  3. Storage <!-- .element: class="fragment" data-fragment-index="4" -->
-  4. Monitor <!-- .element: class="fragment" data-fragment-index="5" -->
   
 Note:
 - Barcamp Style: Dau thang to chuc vote cac chu de, cuoi thang moi nhung nguoi quan tam den trinh bay.
 - Meetup 1: OpenStack Deployment Architecture & Case Study
 - Moi Meetup se co 1 topic do nhom chu dong chon de backup, con lai la cua cong dong
+
+
+## Meetup Topics
+
+- Next Public meetup topic: <!-- .element: class="fragment" data-fragment-index="1" -->
+  1. VietStack, Cloud Computing and OpenStack <!-- .element: class="fragment" data-fragment-index="2" -->
+  2. Virtualization in Cloud <!-- .element: class="fragment" data-fragment-index="3" -->
+  3. Storage <!-- .element: class="fragment" data-fragment-index="4" -->
+  4. Monitor <!-- .element: class="fragment" data-fragment-index="5" -->
 
 ---
 
