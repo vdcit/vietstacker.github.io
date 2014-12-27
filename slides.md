@@ -49,9 +49,9 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
 ## Connect
 - FB: http://facebook.com/groups/vietstack
 - TW: http://twitter.com/VietStack
-- Blog: http://www.vietstack.com	
-- Git: http://github.com/vietstacker	
-- Meetup: http://www.meetup.com/VietStack/	
+- Blog: http://www.vietstack.com  
+- Git: http://github.com/vietstacker  
+- Meetup: http://www.meetup.com/VietStack/  
 - Email: [vietstack@gmail.com][]
 
 [vietstack@gmail.com]: mailto:vietstack@gmail.com
@@ -87,7 +87,7 @@ Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
 
 [1]: http://
 
-Note: Blog da duoc mirantis crawl va rackspace contact
+Note: Blog da duoc mirantis crawl
 
 
 ## Topics
@@ -111,7 +111,7 @@ Up to 2017
 - [Cloud Computing][1] & [OpenStack][1] knowledge sharing
 - Building an OpenStack-geek Team
 - Co-op with [Vietnamese][1] Community for solving OPS problems
-- Connect with other community members inside and outside [Vietnam][1]
+- Connect with other communitycommunity members inside and outside [Vietnam][1]
 - Contribute to [OpenStack Foundation][1]
 
 [1]: http://
@@ -145,11 +145,7 @@ Note:
 
 ## Meetup Topics
 
-- Next Public meetup topic: <!-- .element: class="fragment" data-fragment-index="1" -->
-  1. VietStack, Cloud Computing and OpenStack <!-- .element: class="fragment" data-fragment-index="2" -->
-  2. Virtualization in Cloud <!-- .element: class="fragment" data-fragment-index="3" -->
-  3. Storage <!-- .element: class="fragment" data-fragment-index="4" -->
-  4. Monitor <!-- .element: class="fragment" data-fragment-index="5" -->
+<img src="images/topics.png" width="500" />
 
 ---
 
@@ -169,7 +165,6 @@ Note:
 
 - Skype Group
 - Facebook Group
-- Blog
 - *Mailing list*
 - *IRC*
 
