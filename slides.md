@@ -99,6 +99,7 @@ Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
   - [01][1] Common meetup with ~[120][1] attendances
   - [01][1] Upstream training with ~[80][1] attendances
   - [01][1] Technical meet-up in [Saigon][1] with ~[30][1] attendances
+  - Next is another [Common][1] meetup in [Saigon][1].
 
 [1]: http://
 
