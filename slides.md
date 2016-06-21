@@ -11,11 +11,11 @@ contact@vietopenstack.org
 
 # /me
 
-- Name: [Hieu LE][1]
+- Name: [Cong To-Thanh][1]
 - [Vietnam][1] OpenStack Community Organizer
-- OpenStack [ATC][1]
-- OpenStack Project Leader @ Fujitsu
-- Executive member @ VFOSSA
+- Twitter: [@tothanhcong][1]
+- Email: [tcvn1985@gmail.com][1]
+- GitHub: [https://github.com/congto][1]
 
 [1]: http://
 
@@ -24,14 +24,14 @@ contact@vietopenstack.org
 # Outline
 
 - VietOpenStack Overview
-- Group statistics (05/2016)
+- Group statistics (06/2016)
   - Members
   - Meet-up
   - Topic
 - GOALS - Activities
   - Goals
   - Activities
-- VietStack ⇋ Triple-[C][1]
+- VietOpenStack ⇋ Triple-[C][1]
 - Q&A
 
 [1]: http://
@@ -50,18 +50,16 @@ contact@vietopenstack.org
 [OpenStack]: http://www.openstack.org
 
 
-<img src="images/vs1.png" width="500"/>
-
-Note:
-VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giua cac anh em ky thuat.
+<img src="images/vops.png" width="500"/>
 
 
 ## Connect
 - FB: http://facebook.com/groups/vietstack
+- WebSite: http://vietopenstack.org
 - TW: http://twitter.com/VietStack
 - Blog: http://www.vietstack.com
 - Git: http://github.com/vietstacker
-- Meetup: http://www.meetup.com/VietStack/
+- Meetup: http://www.meetup.com/VietOpenStack/
 - Email: [contact@vietopenstack.org][]
 
 [contact@vietopenstack.org]: mailto:contact@vietopenstack.org
@@ -75,7 +73,7 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
 - Topics
 
 
-## ~ [1900][] Member (05/2016)
+## ~ [1950][1] Member (06/2016)
 - [07][1] organizers:
   - Hieu LE: Fujitsu
   - Tuan Luong: Erricson Hungary
@@ -85,13 +83,10 @@ VS khoi diem tu ngay 13/2/2014, ban dau duoi mong muon tao mot kenh trao doi giu
   - Son Tran: DTT
   - Kien Nguyen: VNU
 - ~[20][1] active member
-  - From Hanoi to HCM city.
+  - From Hanoi to HCM city: thanks @thangmv and @quanhd for 2 meetups in SG
 
 [1]: http://
 [1900]: http://
-
-Note:
-Thang 4 va 5, VS tien hanh viet mot so blog chia se ve cach tim hieu OpenStack
 
 
 ## Meet-ups
@@ -148,7 +143,7 @@ Note:
 # Communication
 # Channel
 
-- Skype Group
+- Skype Group: contact [@hieulq89][] or [@tuantuluong][]
 - Slack channel: http://vietstack.slack.com
 - Facebook Group
 - *Mailing list*
@@ -160,13 +155,13 @@ Note:
 
 - All about OpenStack
 - Coding
-- In the future: BigData, SDN..
+- In the future: all related cloud techniques
 
 Note:
 
 ---
 
-# VietStack ⇋ Triple-[C][1]
+# VietOpenStack ⇋ Triple-[C][1]
 
 Triple[C][1]: [C][1]ommunity - [C][1]ollege - [C][1]orporation
 
@@ -195,6 +190,6 @@ Triple[C][1]: [C][1]ommunity - [C][1]ollege - [C][1]orporation
 
 ---
 
-# VietOpenStack 
+# VietOpenStack
 # Thank You All !
 <img src="images/qa.jpg" />
